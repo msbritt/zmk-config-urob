@@ -14,7 +14,7 @@ for all boards, depending on the combos specified in `combos.dtsi`.
 Clone the ZMK repository and checkout the branch that you want to build against.
 By default the build script will look for the ZMK repo in `~/zmk`. Other
 locations can be specified with `--host-zmk-dir` or by changing the default
-location for `HOST_ZMK_DIR` inside the script.
+location for `q` inside the script.
 
 For example, to build against my `main-3.2` branch, run:
 
